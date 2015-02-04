@@ -14,8 +14,8 @@ tags:
 - workflows
 - productivity
 category: project
-description: TODO
-keywords: TODO
+description: Useful Hazel workflows.
+keywords:
 sharing: true
 comments: false
 footer: true
